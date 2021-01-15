@@ -1,0 +1,348 @@
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Interop.BDaqOcxLib.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.frmMain.resources
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.cache
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.Design.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.xml
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CopyComplete
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\LBIndustrialCtrls.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\DCPL_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.Design.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.xml
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.cache
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CopyComplete
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\DCPL_EDAC_10\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.Design.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.xml
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.cache
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CopyComplete
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll.config
+C:\DCPL_EDAC_101\Main_EDAC\Main_EDAC\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.Design.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Automation.BDaq4.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll.config
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\TE_EDAC\Main_EDAC\Main_EDAC\bin\Debug\MySql.Web.xml
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.cache
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.CopyComplete
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\TE_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.cache
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\TURBO_EDAC\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.xml
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.xml
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.xml
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\TURBO_EDAC - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.ResolveComReference.cache
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\ctlLED.DLL
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.xml
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.xml
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.xml
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\Interop.BDaqOcxLib.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\Interop.BDaqOcxLib.dll
+C:\TURBO_EDAC_2010V\Main_EDAC\Main_EDAC\obj\Debug\AxInterop.BDaqOcxLib.dll
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.dll
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.dll
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.dll
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.xml
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.xml
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.xml
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSmoke.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.xml
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.xml
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.xml
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSmoke.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\Turbo_EDAC_code - Copy\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.DLL
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.DLL
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.DLL
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Adam.xml
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Common.xml
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\bin\Debug\Advantech.Protocol.xml
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngDialog.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.EngOK.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmScrII.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSmoke.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysPara.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSysCf.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmAbout.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmConf.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmInOut.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmLEfiles.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmMain.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmProject.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmRStatus.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmSimulation.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.frmStart.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.Login.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.OnLineGraph.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.Properties.Resources.resources
+C:\Turbo_EDAC_code_141218\Main_EDAC\Main_EDAC\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code\Main_EDAC\Main_EDAC\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\bin\Debug\AGaugeApp.exe
+C:\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\bin\Debug\EasyProgressBar.dll
+C:\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\bin\Debug\extendeddotnet.controls.dll

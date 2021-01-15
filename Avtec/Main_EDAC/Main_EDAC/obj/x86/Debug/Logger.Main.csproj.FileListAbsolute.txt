@@ -1,0 +1,382 @@
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Main_EDAC.exe.config
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Main_EDAC.exe
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Main_EDAC.pdb
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\AGaugeApp.exe
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\AxInterop.BDaqOcxLib.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\ctlLED.DLL
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\DevExpress.Data.v19.1.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\extendeddotnet.controls.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Google.Protobuf.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\InPutV.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Logger_DLL.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\MySql.Data.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\PBar.DLL
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Renci.SshNet.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\DevExpress.Data.v19.1.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Google.Protobuf.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Logger_DLL.pdb
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\MySql.Data.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x86\Debug\Renci.SshNet.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Editors_DLL.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Editors_DLL.pdb
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.pdb
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\DemoEDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.pdb
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Editors_DLL.dll
+C:\Demo_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Editors_DLL.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Editors_DLL.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Logger_DLL.pdb
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+D:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\Dcpl_EDAC_Bit\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+D:\Dcpl_EDAC_Bit _AVT\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_New\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\InPutV.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\Main_EDAC\Main_EDAC\bin\Debug\InPutV.pdb
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.pdb
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\S7.Net.dll
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Google.Protobuf.xml
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\MySql.Data.xml
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\Renci.SshNet.xml
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\S7.Net.pdb
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngDialog.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.EngOK.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSmoke.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmAbout.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmConf.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmInOut.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmLEfiles.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmMain.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmProject.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmRStatus.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmSimulation.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.frmStart.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Login.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.OnLineGraph.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Properties.Resources.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Logger.Main.csproj.GenerateResource.Cache
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.exe
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x86\Debug\Main_EDAC.pdb
+D:\Avtec\Main_EDAC\Main_EDAC\bin\Debug\canlibCLSNET.dll

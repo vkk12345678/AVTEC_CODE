@@ -1,0 +1,200 @@
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.exe.config
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.exe
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.pdb
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Office.Interop.Access.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\office.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x86\Debug\dao.dll
+C:\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.exe.config
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\DataManagement.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\dao.dll
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Office.Interop.Access.dll
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\x86\Debug\office.dll
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+H:\Csv\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+C:\DemoEDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\DemoEDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Demo_EDAC_Bit\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\office.dll
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+D:\Dcpl_EDAC_Bit _AVT\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\office.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\office.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+D:\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+D:\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+D:\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+D:\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+D:\Avtec\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.ResolveComReference.cache
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.exe
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.pdb
+D:\Avtec\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+D:\Avtec\Avtec\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+D:\Avtec\Avtec\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+D:\Avtec\Avtec\DataManagement\DataManagement\bin\Debug\MySql.Data.xml
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmExcel.resources
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.frmGen.resources
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.MDIData.resources
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.Properties.Resources.resources
+D:\Avtec\Avtec\DataManagement\DataManagement\obj\x86\Debug\DataManagement.csproj.GenerateResource.Cache
+D:\Avtec\DataManagement\DataManagement\bin\Debug\MySql.Data.dll
+D:\Avtec\DataManagement\DataManagement\bin\Debug\MySql.Data.xml

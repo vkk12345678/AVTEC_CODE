@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Automation</id>
+    <version>1.0.2</version>
+    <title>Automation</title>
+    <authors>Bruno Moreira</authors>
+    <owners>Bruno Moreira</owners>
+    <projectUrl>https://automation4u.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides access to Programmable logic controller through Modbus.</description>
+    <summary />
+    <tags>Automation PLC Modbus HMI</tags>
+  </metadata>
+</package>

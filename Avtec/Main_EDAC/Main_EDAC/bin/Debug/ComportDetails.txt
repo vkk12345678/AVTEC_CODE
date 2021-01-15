@@ -1,0 +1,3 @@
+Analogue out put  : COM10 :  9600 : None : 8 : 1
+Modbus    in put  : COM12 :  9600 : Odd  : 8 : 1
+ADAM & RPM In Put : COM1  :  9600 : None : 8 : 1

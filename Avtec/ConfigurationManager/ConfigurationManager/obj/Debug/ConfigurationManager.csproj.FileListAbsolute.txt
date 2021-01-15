@@ -1,0 +1,135 @@
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+E:\bit_edac\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.dll
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.dll
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.xml
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.xml
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\Demo_EDAC_Bit\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\Demo_EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\Demo_EDAC_Bit\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.dll
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.dll
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.xml
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.xml
+D:\Dcpl_EDAC_Bit _AVT\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_New\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_Modified\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\Google.Protobuf.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\bin\Debug\Renci.SshNet.xml
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+D:\Avtec\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe.config
+D:\Avtec\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.exe
+D:\Avtec\ConfigurationManager\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysCf.resources
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.frmSysPara.resources
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\Logger.MDIParent1.resources
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.PortConfigurationSetting.resources
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.Properties.Resources.resources
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.GenerateResource.Cache
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.exe
+D:\Avtec\ConfigurationManager\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
+D:\Avtec\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.dll
+D:\Avtec\ConfigurationManager\ConfigurationManager\bin\Debug\MySql.Data.xml

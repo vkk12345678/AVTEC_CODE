@@ -1,0 +1,25 @@
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\DataManagement.exe.config
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.frmExcel.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.frmGen.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.MDIData.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.Properties.Resources.resources
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.csproj.GenerateResource.Cache
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\DataManagement.exe
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\DataManagement.pdb
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\dao.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\Microsoft.Office.Interop.Access.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\bin\x64\Debug\office.dll
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.exe
+C:\Turbo_EDAC_code\DataManagement\DataManagement\obj\x64\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\bin\x64\Debug\DataManagement.exe.config
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.csproj.ResolveComReference.cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.exe
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.pdb
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.csprojResolveAssemblyReference.cache
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.frmExcel.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.frmGen.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.MDIData.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.Properties.Resources.resources
+C:\Dcpl_EDAC_Bit _AVT_V2.0\DataManagement\DataManagement\obj\x64\Debug\DataManagement.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+﻿1>------ Rebuild All started: Project: Read_ECUVal, Configuration: Debug Any CPU ------
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(9,7,9,25): warning CS0105: The using directive for 'System.Diagnostics' appeared previously in this namespace
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(148,17,148,21): warning CS0219: The variable 'flag' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(149,17,149,22): warning CS0219: The variable 'idOut' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(150,17,150,21): warning CS0219: The variable 'idIn' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(152,17,152,20): warning CS0219: The variable 'dlc' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(153,18,153,22): warning CS0219: The variable 'time' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(154,18,154,25): warning CS0219: The variable 'timeout' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(155,17,155,24): warning CS0219: The variable 'Counter' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(156,17,156,23): warning CS0219: The variable 'ECUCnt' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(186,20,186,21): warning CS0168: The variable 'l' is declared but never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(265,30,265,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(351,17,351,25): warning CS0219: The variable 'myNewInt' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(401,20,401,26): warning CS0168: The variable 'myHex3' is declared but never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(449,30,449,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(494,30,494,32): warning CS0168: The variable 'ex' is declared but never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(25,21,25,31): warning CS0414: The field 'Read_ECUVal.Form1.readHandle' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(26,22,26,27): warning CS0414: The field 'Read_ECUVal.Form1.onBus' is assigned but its value is never used
+1>D:\Avtec\Read_ECUVal\Read_ECUVal\Form1.cs(28,43,28,49): warning CS0169: The field 'Read_ECUVal.Form1.dumper' is never used
+1>  Read_ECUVal -> D:\Avtec\Read_ECUVal\Read_ECUVal\bin\Debug\Read_ECUVal.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

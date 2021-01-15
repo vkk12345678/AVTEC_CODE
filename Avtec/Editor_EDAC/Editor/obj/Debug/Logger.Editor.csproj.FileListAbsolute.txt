@@ -1,0 +1,52 @@
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.exe.config
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.exe
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.pdb
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.exe
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.pdb
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csprojResolveAssemblyReference.cache
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmEngine.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmLimit.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmPass.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmPrint.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmSeq.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.MDIParent.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csproj.GenerateResource.Cache
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.exe.config
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.exe
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\bin\Debug\Editor.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmEngine.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmLimit.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmPass.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmPrint.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.frmSeq.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.MDIParent.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csproj.GenerateResource.Cache
+C:\EDAC_Bit\Editor_EDAC\Editor\bin\Debug\Editor.exe.config
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.exe
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.pdb
+C:\EDAC_Bit\Editor_EDAC\Editor\bin\Debug\Editor.exe
+C:\EDAC_Bit\Editor_EDAC\Editor\bin\Debug\Editor.pdb
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.frmEngine.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.frmLimit.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.frmPass.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.frmPrint.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.frmSeq.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.MDIParent.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\EDAC_Bit\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csproj.GenerateResource.Cache
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\bin\Debug\Editor.exe.config
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.exe
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.pdb
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csprojResolveAssemblyReference.cache
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.frmEngine.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.frmLimit.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.frmPass.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.frmPrint.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.frmSeq.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.MDIParent.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Editor.Properties.Resources.resources
+D:\Dcpl_EDAC_Bit _AVT\Editor_EDAC\Editor\obj\Debug\Logger.Editor.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.csprojResolveAssemblyReference.cache
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\Editors_DLL.pdb
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\Google.Protobuf.dll
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\Renci.SshNet.dll
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\MySql.Data.xml
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\Google.Protobuf.xml
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\bin\Debug\Renci.SshNet.xml
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.dll
+C:\EDAC_Bit\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.pdb
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\bin\Debug\Editors_DLL.pdb
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\bin\Debug\Renci.SshNet.dll
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\bin\Debug\Renci.SshNet.xml
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.csprojResolveAssemblyReference.cache
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.dll
+C:\EDAC_Bit121\Editor_EDAC\Editors_DLL\obj\Debug\Editors_DLL.pdb

@@ -1,0 +1,56 @@
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngDialog1.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngOK.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmScrII.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSmoke.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSysPara.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSysCf.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmAbout.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmConf.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmInOut.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmLEfiles.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmMain.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmProject.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmRStatus.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSimulation.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmStart.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Login.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.OnLineGraph.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Main_EDAC.Properties.Resources.resources
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Main.csproj.GenerateResource.Cache
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Main_EDAC.pdb
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\Turbo EDAC CODE\Turbo_EDAC_Code\Main_EDAC\Main_EDAC\bin\x64\Debug\Main_EDAC.exe.config
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\bin\x64\Debug\Main_EDAC.exe.config
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Main.csprojResolveAssemblyReference.cache
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngDialog.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngOK.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSmoke.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmAbout.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmConf.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmInOut.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmLEfiles.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmMain.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmProject.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmRStatus.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSimulation.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmStart.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Login.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.OnLineGraph.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Main_EDAC.Properties.Resources.resources
+C:\EDAC_Bit\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Main.csproj.GenerateResource.Cache
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngDialog.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.EngOK.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSmoke.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmAbout.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmConf.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmInOut.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmLEfiles.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmMain.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmProject.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmRStatus.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmSimulation.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.frmStart.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Login.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.OnLineGraph.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Properties.Resources.resources
+D:\Avtec\Main_EDAC\Main_EDAC\obj\x64\Debug\Logger.Main.csproj.GenerateResource.Cache

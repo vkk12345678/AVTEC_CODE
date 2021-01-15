@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>S7netplus</id>
+    <version>0.4.0</version>
+    <title>S7.Net Plus</title>
+    <authors>Derek Heiser, Michele Cattafesta, Michael Croes, Raphael Schlameuß</authors>
+    <owners>Derek Heiser, Michele Cattafesta, Michael Croes, Raphael Schlameuß</owners>
+    <projectUrl>https://github.com/killnine/s7netplus</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A continuation of Juergen1969's Siemens communication library.</description>
+    <summary />
+    <copyright>Derek Heiser 2015</copyright>
+    <tags>PLC Siemens Communication S7</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="NETStandard.Library" version="1.6.1" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

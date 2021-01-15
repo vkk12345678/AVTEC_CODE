@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DevExpress.Data</id>
+    <version>19.1.6</version>
+    <title>DevExpress.Data</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Developer Express Inc.</owners>
+    <licenseUrl>https://www.devexpress.com/Support/EULAs</licenseUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/6b38f1e9ffd8b069bcdc2741934fdbcf?s=512&amp;r=g&amp;d=retro</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This package provides basic functionality to data-aware DevExpress controls.</description>
+    <summary />
+    <language>en-US</language>
+    <dependencies>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="1.1.2" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="1.1.2" />
+        <dependency id="Microsoft.Extensions.PlatformAbstractions" version="1.1.0" />
+        <dependency id="NETStandard.Library" version="2.0.3" />
+        <dependency id="System.ComponentModel.Annotations" version="4.4.0" />
+        <dependency id="System.Drawing.Common" version="4.5.0" />
+        <dependency id="System.Reflection.Emit" version="4.3.0" />
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" />
+        <dependency id="System.ServiceModel.Http" version="4.4.0" />
+        <dependency id="System.ServiceModel.Primitives" version="4.4.0" />
+        <dependency id="System.Text.Encoding.CodePages" version="4.4.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
